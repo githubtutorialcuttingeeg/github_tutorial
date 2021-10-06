@@ -14,3 +14,5 @@ pull request:
 - new Pull request
 - compare across forks
 - select your own account on the second part
+
+git pull origin main - fetch (updated) data from the online repository (when changes werre made online)
