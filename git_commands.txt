@@ -6,3 +6,11 @@ git commit -m "added a file" - add a comment to indicate what you did
 git push origin main - push updated files to my account on the internet
 
 git status - see status of files 
+
+
+pull request:
+- go to organizations page
+- click on 'Pull requests'
+- new Pull request
+- compare across forks
+- select your own account on the second part
