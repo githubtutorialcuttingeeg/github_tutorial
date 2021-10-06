@@ -1,0 +1,8 @@
+git clone https://github.com/jorgo31/github_tutorial.git
+
+git clone - to create repository to folder on PC
+git add 'file name.suffix'
+git commit -m "added a file" - add a comment to indicate what you did
+git push origin main - push updated files to my account on the internet
+
+git status - see status of files 
